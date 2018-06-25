@@ -1,7 +1,5 @@
-Alt-H1
+Braden Andros
 ======
-
-Hi there, and welcome to my github page.
 
 [I'm an inline-style link](https://www.google.com)
 
