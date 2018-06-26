@@ -1,6 +1,6 @@
 <div style="text-align: right">brady.andros@gmail.com</div>
 
-<div style="text-align: right"> [LinkedIn] https://www.linkedin.com/in/braden-andros-125b7381/</div>
+<div style="text-align: right"> [LinkedIn] (https://www.linkedin.com/in/braden-andros-125b7381/) </div>
 
 # Braden Andros 
 
