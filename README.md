@@ -1,6 +1,10 @@
 Braden Andros
 ======
 
+Hi there, and welcome to my simple github site. Here I have some of the projects I've been working on for web development. 
+
+<!---
+
 [I'm an inline-style link](https://www.google.com)
 
 Here's our logo (hover to see the title text):
@@ -42,3 +46,5 @@ Markdown | Less | Pretty
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+
+-->
