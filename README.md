@@ -14,6 +14,10 @@ The code for my projects can be found below:
 
 * [ToDo Application (with jQuery)](https://github.com/ndatoxicity/BradyRepo/tree/master/ColorGame)
 
+---
+
+ <a href="https://drive.google.com/open?id=1kEshBteVYW8O_km4DDTTQ3-fbGoaPtp3Z5e4-2u4fio">My Resume</a>
+
 <!---
 
 [I'm an inline-style link](https://www.google.com)
