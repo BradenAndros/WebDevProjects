@@ -8,7 +8,7 @@
 
 The code for my projects can be found below: 
 
-* [Color Game Project](https://github.com/ndatoxicity/BradyRepo/tree/master/ColorGame)
+* [Color Game Project (JS)](https://github.com/ndatoxicity/BradyRepo/tree/master/ColorGame)
 
 * [ToDo Application (with jQuery)](https://github.com/ndatoxicity/BradyRepo/tree/master/ColorGame)
 
