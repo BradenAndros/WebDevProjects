@@ -1,11 +1,11 @@
 Braden Andros 
 ======
 
-## Hi there, and welcome to my simple github site. Here I have some of the projects I've been working on for web development. 
+#### Hi there, and welcome to my simple github site. Here I have some of the projects I've been working on for web development. 
 
 ***
 
-Some of my projects can be found below: 
+The code for my projects can be found below: 
 
 * [Color Game Project](https://github.com/ndatoxicity/BradyRepo/tree/master/ColorGame)
 
