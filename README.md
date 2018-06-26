@@ -12,9 +12,9 @@
 
 The code for my projects can be found below: 
 
-* [Color Game Project (Vanilla JS)](https://github.com/ndatoxicity/BradyRepo/tree/master/ColorGame)
+* [Color Game Project (Vanilla JS)](https://github.com/BradenAndros/WebDevProjects/tree/master/ColorGame)
 
-* [ToDo Application (with jQuery)](https://github.com/ndatoxicity/BradyRepo/tree/master/ColorGame)
+* [Interactive To-Do Application (with jQuery)](https://github.com/BradenAndros/WebDevProjects/tree/master/toDoApp)
 
 ---
 
