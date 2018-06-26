@@ -1,3 +1,5 @@
+<div style="text-align: right">brady.andros@gmail.com</div>
+
 Braden Andros 
 ======
 
