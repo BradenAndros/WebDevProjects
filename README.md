@@ -41,7 +41,7 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
--->
+
 1. First ordered list item
 2. Another item
   * Unordered sub-list. 
@@ -55,4 +55,4 @@ Markdown | Less | Pretty
 - Or minuses
 + Or pluses
 
-
+-->
