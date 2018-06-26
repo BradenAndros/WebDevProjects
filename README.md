@@ -4,7 +4,7 @@
 
 # Braden Andros 
 
-#### Hi there, and welcome to my simple github site. Here I have some of the projects I've been working on for web development. 
+#### Hi there, and welcome to my web development project site. Here I have some of the projects I've been working on for web development. 
 
 ***
 
