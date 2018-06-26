@@ -1,5 +1,7 @@
 <div style="text-align: right">brady.andros@gmail.com</div>
 
+<div style="text-align: right"> [LinkedIn] https://www.linkedin.com/in/braden-andros-125b7381/</div>
+
 # Braden Andros 
 
 #### Hi there, and welcome to my simple github site. Here I have some of the projects I've been working on for web development. 
