@@ -2,6 +2,8 @@
 
 <div style="text-align: right; font-weight: bold"> <a href="https://www.linkedin.com/in/braden-andros-125b7381/">LinkedIn</a></div>
 
+<div style="text-align: right; font-weight: bold"> <a href="https://drive.google.com/open?id=1kEshBteVYW8O_km4DDTTQ3-fbGoaPtp3Z5e4-2u4fio">My Resume</a> </div>
+
 # Braden Andros 
 
 #### Hi there, and welcome to my web development project site. Here I have some of the projects I've been working on for web development. 
@@ -15,8 +17,6 @@ The code for my projects can be found below:
 * [ToDo Application (with jQuery)](https://github.com/ndatoxicity/BradyRepo/tree/master/ColorGame)
 
 ---
-
- <a href="https://drive.google.com/open?id=1kEshBteVYW8O_km4DDTTQ3-fbGoaPtp3Z5e4-2u4fio">My Resume</a>
 
 <!---
 
