@@ -16,7 +16,7 @@ The code for my projects can be found below:
 
 * [Interactive To-Do Application (with jQuery)](https://github.com/BradenAndros/WebDevProjects/tree/master/toDoApp)
 
-* [Patatap Clone (with HowlerJS, PaperJS - WIP)](https://github.com/BradenAndros/WebDevProjects/tree/master/patatapClone)
+* [Patatap Clone (with HowlerJS, PaperJS)](https://github.com/BradenAndros/WebDevProjects/tree/master/patatapClone)
 
 ---
 
