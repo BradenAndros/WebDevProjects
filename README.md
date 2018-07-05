@@ -20,6 +20,10 @@ The code for my projects can be found below:
 
 ---
 
+Here's some more advanced things I'm working on for full-stack development: 
+
+* [View my online cloud9 IDE](https://ide.c9.io/bradenandros/webdevbootcamp)
+
 <!---
 
 [I'm an inline-style link](https://www.google.com)
